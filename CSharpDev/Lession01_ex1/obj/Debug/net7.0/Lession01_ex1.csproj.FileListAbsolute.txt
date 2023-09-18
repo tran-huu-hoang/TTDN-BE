@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\bin\Debug\net7.0\Lession01_ex1.exe
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\bin\Debug\net7.0\Lession01_ex1.deps.json
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\bin\Debug\net7.0\Lession01_ex1.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\bin\Debug\net7.0\Lession01_ex1.dll
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\bin\Debug\net7.0\Lession01_ex1.pdb
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.dll
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\refint\Lession01_ex1.dll
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.pdb
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\Lession01_ex1.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharpDev\Lession01_ex1\obj\Debug\net7.0\ref\Lession01_ex1.dll
