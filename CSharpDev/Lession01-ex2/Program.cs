@@ -12,7 +12,7 @@ internal class Program
         string phone = "0123456789";
         string email = "nguyenvana@gmail.com";
 
-        Console.WriteLine("Mã nhan vien: " + id);
+        Console.WriteLine("Mã nhân vien: " + id);
         Console.WriteLine("Ten nhan vien: " + name);
         Console.WriteLine("Ngay sinh: " + dateOfBirth);
         Console.WriteLine("Dia chi: " + address);
