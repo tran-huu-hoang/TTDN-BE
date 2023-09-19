@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\bin\Debug\net7.0\Lab02_ex2.6.exe
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\bin\Debug\net7.0\Lab02_ex2.6.deps.json
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\bin\Debug\net7.0\Lab02_ex2.6.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\bin\Debug\net7.0\Lab02_ex2.6.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\bin\Debug\net7.0\Lab02_ex2.6.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\refint\Lab02_ex2.6.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\Lab02_ex2.6.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02_ex2.6\obj\Debug\net7.0\ref\Lab02_ex2.6.dll

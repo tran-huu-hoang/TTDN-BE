@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\bin\Debug\net7.0\Lab02.5.exe
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\bin\Debug\net7.0\Lab02.5.deps.json
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\bin\Debug\net7.0\Lab02.5.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\bin\Debug\net7.0\Lab02.5.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\bin\Debug\net7.0\Lab02.5.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\refint\Lab02.5.dll
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\Lab02.5.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharp02\Lab02.5\obj\Debug\net7.0\ref\Lab02.5.dll

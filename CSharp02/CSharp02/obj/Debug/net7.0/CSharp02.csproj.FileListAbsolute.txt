@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\bin\Debug\net7.0\CSharp02.exe
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\bin\Debug\net7.0\CSharp02.deps.json
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\bin\Debug\net7.0\CSharp02.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\bin\Debug\net7.0\CSharp02.dll
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\bin\Debug\net7.0\CSharp02.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.dll
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\refint\CSharp02.dll
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.pdb
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\CSharp02.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharp02\CSharp02\obj\Debug\net7.0\ref\CSharp02.dll
