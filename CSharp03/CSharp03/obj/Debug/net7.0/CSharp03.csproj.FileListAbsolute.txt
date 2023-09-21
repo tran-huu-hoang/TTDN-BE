@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\bin\Debug\net7.0\CSharp03.exe
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\bin\Debug\net7.0\CSharp03.deps.json
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\bin\Debug\net7.0\CSharp03.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\bin\Debug\net7.0\CSharp03.dll
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\bin\Debug\net7.0\CSharp03.pdb
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.dll
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\refint\CSharp03.dll
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.pdb
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\CSharp03.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharp03\CSharp03\obj\Debug\net7.0\ref\CSharp03.dll
