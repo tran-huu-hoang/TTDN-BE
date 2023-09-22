@@ -1,0 +1,14 @@
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\bin\Debug\net7.0\Lab04_ex4.1.exe
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\bin\Debug\net7.0\Lab04_ex4.1.deps.json
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\bin\Debug\net7.0\Lab04_ex4.1.runtimeconfig.json
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\bin\Debug\net7.0\Lab04_ex4.1.dll
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\bin\Debug\net7.0\Lab04_ex4.1.pdb
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.AssemblyInfoInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.AssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.csproj.CoreCompileInputs.cache
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.dll
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\refint\Lab04_ex4.1.dll
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.pdb
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\Lab04_ex4.1.genruntimeconfig.cache
+C:\WorkSpace\TTDN-BE\CSharp04\Lab04_ex4.1\obj\Debug\net7.0\ref\Lab04_ex4.1.dll

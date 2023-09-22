@@ -7,7 +7,7 @@ internal class Program
     {
         Console.OutputEncoding = Encoding.UTF8;
 
-        Book book = new Book("hoang", 12, "asb", "hoang vip pro");
+        Book book = new Book("hoang", 12, "asb", "hoang");
         book.FlipPageBackward();
         book.FlipPageBackward();
         book.FlipPageBackward();
