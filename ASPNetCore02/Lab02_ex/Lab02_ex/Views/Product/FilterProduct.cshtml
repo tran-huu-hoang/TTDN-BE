@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Sản phẩm";
+    var categories = ViewBag.categories;
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h3>Danh mục</h3>
+        <table class="table table-bordered">
+            <tr>
+                <td><a asp-route="filter-category" asp-route-id="1" class="btn btn-secondary w-100">Quần áo</a></td>
+            </tr>
+            <tr>
+                <td><a asp-route="filter-category" asp-route-id="2" class="btn btn-secondary w-100">Giày</a></td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-md-9">
+        <h3>Danh sách sản phẩm</h3>
+        <div class="row">
+            @foreach (var item in categories)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="border border-1 p-3">
+                        <img src="@item.Image" style="height: 200px" />
+                        <div>
+                            @item.Name
+                        </div>
+                        <div>
+                            <div class="text-decoration-line-through">@item.Price $</div>
+                            <h4>@item.SalePrice $</h4>
+                        </div>
+                        <p>
+                            <a asp-route="profile" asp-route-id="@item.Id" class="btn btn-success">Chi tiết</a>
+                        </p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

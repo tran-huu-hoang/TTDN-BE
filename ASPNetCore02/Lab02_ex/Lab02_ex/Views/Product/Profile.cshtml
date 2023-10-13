@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+    var categories = ViewBag.categories;
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="@categories.Image" class="w-100" />
+    </div>
+    <div class=" col-md-8">
+        <h2 class="text-primary">Sản phẩm: @categories.Name</h2></br>
+        <h4 class="text-decoration-line-through">Giá gốc: @categories.Price $</h4>
+        <h3>Giá mới: @categories.SalePrice $</h3></br>
+        <h4>Mô tả: @categories.Decription</h4></br>
+        <h4>
+            Trạng thái:
+            @if (categories.Status == 1)
+            {
+                <span>Còn hàng</span>
+            }
+            else
+            {
+                <span>Hết hàng</span>
+            }
+        </h4></br>
+        <h3>Ngày đăng: @categories.CreateAt</h3></br>
+        <p>
+            <a asp-controller="Product" asp-action="Index" class="btn btn-danger btn-sm">Back to list</a>
+        </p>
+    </div>
+</div>
