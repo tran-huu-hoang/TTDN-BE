@@ -34,7 +34,7 @@
                 Status = true,
                 CreateDate = Convert.ToDateTime("2000/02/03"),
                 Image = "images/anh3.png",
-                CategoryId = 3,
+                CategoryId = 2,
                 Decription = "Chất lượng cao",
             },
             new Product
@@ -80,6 +80,19 @@
         public static Product GetProductById(int id)
         {
             return products.FirstOrDefault(x => x.Id == id);
+        }
+
+        public static List<Category> categories = new List<Category>()
+        {
+            new Category { Id = 1, Name = "Pháp khí", CreateDate = DateTime.Now, CreateBy = "Hoàng", Status = true},
+            new Category { Id = 2, Name = "Cung", CreateDate = DateTime.Now, CreateBy = "Hoàng", Status = false},
+            new Category { Id = 3, Name = "Vũ khí cán dài", CreateDate = DateTime.Now, CreateBy = "Hoàng", Status = false},
+            new Category { Id = 4, Name = "Kiếm đơn", CreateDate = DateTime.Now, CreateBy = "Hoàng", Status = true},
+        };
+
+        public static List<Category> GetCategory()
+        {
+            return categories;
         }
     }
 }

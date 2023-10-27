@@ -4,12 +4,13 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Dang sách sản phẩm</h1>
+<hr />
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Create New +</a>
 </p>
-<table class="table">
+<table class="table table-bordered table-hover">
     <thead>
         <tr>
             <th>
@@ -36,7 +37,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Decription)
             </th>
-            <th></th>
+            <th>
+                Chức năng
+            </th>
         </tr>
     </thead>
     <tbody>

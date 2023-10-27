@@ -15,9 +15,11 @@ namespace Lab04_ex.Models
         public DateTime CreateDate { get; set; }
         [Display(Name = "Hình ảnh")]
         public string Image { get; set; }
-        [Display(Name = "Id danh mục")]
+        [Display(Name = "Danh mục")]
         public int CategoryId { get; set; }
         [Display(Name = "Mô tả")]
         public string Decription { get; set; }
+
+        public virtual Category? Category { get; set; }
     }
 }

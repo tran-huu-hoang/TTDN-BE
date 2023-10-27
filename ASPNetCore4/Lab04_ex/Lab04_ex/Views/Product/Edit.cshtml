@@ -2,70 +2,64 @@
 
 @{
     ViewData["Title"] = "Edit";
+    var categories = ViewBag.Categories;
 }
 
-<h1>Edit</h1>
-
-<h4>Product</h4>
+<h1>Sửa thông tin sản phẩm</h1>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Id" class="control-label"></label>
-                <input asp-for="Id" class="form-control" />
-                <span asp-validation-for="Id" class="text-danger"></span>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Id)</span>
+                <input asp-for="Id" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
             </div>
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Name)</span>
+                <input asp-for="Name" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
             </div>
-            <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Price)</span>
+                <input asp-for="Price" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
             </div>
-            <div class="form-group">
+            <div class="form-group my-2">
                 <label asp-for="Status" class="control-label"></label>
-                <input name="Status" type="radio" value="true" checked /><label for="ConHang">Còn hàng</label>
-                <input name="Status" type="radio" value="false" /><label for="HetHang">Hết hàng</label>
+                <input name="Status" type="radio" value="true" @if(Model.Status == true){<text>checked</text>} /><label for="ConHang">Còn hàng</label>
+                <input name="Status" type="radio" value="false" @if(Model.Status == false){<text>checked</text>} /><label for="HetHang">Hết hàng</label>
             </div>
             <div class="form-group">
-                <label asp-for="CreateDate" class="control-label"></label>
-                <input asp-for="CreateDate" class="form-control" />
-                <span asp-validation-for="CreateDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Image" class="control-label"></label>
-                <input asp-for="Image" class="form-control" type="file" />
+                <div class="d-flex">
+                    <span class="input-group-text w-25" id="basic-addon1">@Html.DisplayNameFor(model => model.Image)</span>
+                    <div class="w-75"><img src="~/@Model.Image" alt="@Model.Name" width="100" /></div>
+                </div>
+                <input asp-for="Image" type="hidden" class="form-control" />
+                <input class="form-control my-3" type="file" name="UploadImage" />
                 <span asp-validation-for="Image" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="CategoryId" class="control-label"></label>
-                <select name="CategoryId" id="CategoryId">
-                    <option value="1">Pháp khí</option>
-                    <option value="2">Cung</option>
-                    <option value="3">Vũ khí cán dài</option>
-                    <option value="4">Kiếm đơn</option>
+            <div class="form-group mb-3 d-flex">
+                <span class="input-group-text w-25" id="basic-addon1">@Html.DisplayNameFor(model => model.CategoryId)</span>
+                <select class="w-75" asp-for="CategoryId" class="form-control" asp-items="@ViewBag.Categories" aria-describedby="basic-addon1">
                 </select>
-                <span asp-validation-for="CategoryId" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Decription" class="control-label"></label>
-                <input asp-for="Decription" class="form-control" />
-                <span asp-validation-for="Decription" class="text-danger"></span>
+            <div class="input-group my-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Decription)</span>
+                <input asp-for="Decription" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+
+            <div hidden>
+                <div class="form-group">
+                    <label asp-for="CreateDate" class="control-label"></label>
+                    <input asp-for="CreateDate" class="form-control" />
+                    <span asp-validation-for="CreateDate" class="text-danger"></span>
+                </div>
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
 </div>
 
 @section Scripts {

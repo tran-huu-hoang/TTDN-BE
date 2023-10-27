@@ -1,6 +1,7 @@
 ﻿using Lab04_ex.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Lab04_ex.Controllers
 {
@@ -23,8 +24,14 @@ namespace Lab04_ex.Controllers
         // GET: ProductController/Create
         public ActionResult Create()
         {
-            Product product = new Product();
-            return View(product);
+            ViewBag.Categories = DataLocal.GetCategory();
+            var Id = DataLocal.products.Max(x => x.Id);
+            ViewBag.Id = Id + 1;
+
+            //tạo dữ liệu cho combobox
+            ViewBag.Categories = new SelectList(DataLocal.categories, "Id", "Name", 1);
+
+            return View();
         }
 
         // POST: ProductController/Create
@@ -34,6 +41,8 @@ namespace Lab04_ex.Controllers
         {
             try
             {
+                model.CreateDate = DateTime.Now;
+
                 var files = HttpContext.Request.Form.Files;
                 if (files.Count() > 0 && files[0].Length > 0)
                 {
@@ -60,6 +69,11 @@ namespace Lab04_ex.Controllers
         public ActionResult Edit(int id)
         {
             var product = DataLocal.GetProductById(id);
+            ViewBag.Categories = DataLocal.GetCategory();
+
+            //tạo dữ liệu cho combobox
+            ViewBag.Categories = new SelectList(DataLocal.categories, "Id", "Name", product.CategoryId);
+
             return View(product);
         }
 
