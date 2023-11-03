@@ -1,0 +1,79 @@
+﻿@model Lab05_ex.Models.Product
+
+@{
+    ViewData["Title"] = "Edit";
+    var categories = ViewBag.Categories;
+}
+
+<h1>Sửa thông tin sản phẩm</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Id)</span>
+                <input asp-for="Id" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Name)</span>
+                <input asp-for="Name" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Price)</span>
+                <input asp-for="Price" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.SalePrice)</span>
+                <input asp-for="SalePrice" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <div class="form-group my-2">
+                <label asp-for="Status" class="control-label"></label>
+                <input name="Status" type="radio" value="true" @if (Model.Status == true)
+                {
+                    <text>checked</text>
+                } /><label for="ConHang">Còn hàng</label>
+                <input name="Status" type="radio" value="false" @if (Model.Status == false)
+                {
+                    <text>checked</text>
+                } /><label for="HetHang">Hết hàng</label>
+            </div>
+            <div class="form-group">
+                <div class="d-flex">
+                    <span class="input-group-text w-25" id="basic-addon1">@Html.DisplayNameFor(model => model.Image)</span>
+                    <div class="w-75"><img src="~/@Model.Image" alt="@Model.Name" width="100" /></div>
+                </div>
+                <input asp-for="Image" type="hidden" class="form-control" />
+                <input class="form-control my-3" type="file" name="UploadImage" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3 d-flex">
+                <span class="input-group-text w-25" id="basic-addon1">@Html.DisplayNameFor(model => model.CategoryId)</span>
+                <select class="w-75" asp-for="CategoryId" class="form-control" asp-items="@ViewBag.Categories" aria-describedby="basic-addon1">
+                </select>
+            </div>
+            <div class="input-group my-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Decription)</span>
+                <input asp-for="Decription" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+
+            <div hidden>
+                <div class="form-group">
+                    <label asp-for="CreateDate" class="control-label"></label>
+                    <input asp-for="CreateDate" class="form-control" />
+                    <span asp-validation-for="CreateDate" class="text-danger"></span>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

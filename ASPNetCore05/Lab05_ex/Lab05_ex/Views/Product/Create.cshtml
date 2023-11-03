@@ -1,0 +1,68 @@
+﻿@model Lab05_ex.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+    var categories = ViewBag.Categories;
+}
+
+<h1>Thêm mới sản phẩm</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Id)</span>
+                <input asp-for="Id" type="text" class="form-control" value="@ViewBag.Id" aria-label="Username" aria-describedby="basic-addon1">
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Name)</span>
+                <input asp-for="Name" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Price)</span>
+                <input asp-for="Price" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.SalePrice)</span>
+                <input asp-for="SalePrice" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group my-2">
+                <label asp-for="Status" class="control-label"></label>
+                <input name="Status" id="ConHang" type="radio" value="true" checked /><label for="ConHang">Còn hàng</label>
+                <input name="Status" id="HetHang" type="radio" value="false" /><label for="HetHang">Hết hàng</label>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Image)</span>
+                <input asp-for="Price" type="file" class="form-control" aria-describedby="basic-addon1">
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3 d-flex">
+                <span class="input-group-text w-25" id="basic-addon1">@Html.DisplayNameFor(model => model.CategoryId)</span>
+                <select class="w-75" asp-for="CategoryId" class="form-control" asp-items="@ViewBag.Categories" aria-describedby="basic-addon1">
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Decription)</span>
+                <input asp-for="Decription" type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+                <span asp-validation-for="Decription" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

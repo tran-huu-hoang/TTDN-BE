@@ -1,0 +1,62 @@
+﻿@model Lab05_ex.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết sản phẩm</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Id)</span>
+            <input type="text" class="form-control" placeholder="@Model.Id" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Name)</span>
+            <input type="text" class="form-control" placeholder="@Model.Name" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Price)</span>
+            <input type="text" class="form-control" placeholder="@Model.Price" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.SalePrice)</span>
+            <input type="text" class="form-control" placeholder="@Model.SalePrice" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Status)</span>
+            <input type="text" class="form-control"
+                   placeholder="@if (Model.Status == true)
+                   {
+            <text>Còn hàng</text>
+            }
+            else
+            {
+            <text>Hết hàng</text>
+            }"
+            aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.CreateDate)</span>
+            <input type="text" class="form-control" placeholder="@Model.CreateDate" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text me-3" id="basic-addon1">@Html.DisplayNameFor(model => model.Image)</span>
+            <img src="~/@Model.Image" alt="@Model.Name" width="100" aria-describedby="basic-addon1" />
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.CategoryId)</span>
+            <input type="text" class="form-control" placeholder="@Model.CategoryId" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Decription)</span>
+            <input type="text" class="form-control" placeholder="@Model.Decription" aria-describedby="basic-addon1">
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Sửa</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

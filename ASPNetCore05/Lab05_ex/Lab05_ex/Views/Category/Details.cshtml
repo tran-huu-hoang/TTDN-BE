@@ -1,0 +1,43 @@
+﻿@model Lab05_ex.Models.Category
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết danh mục</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Id)</span>
+            <input type="text" class="form-control" placeholder="@Model.Id" aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Name)</span>
+            <input type="text" class="form-control" placeholder="@Model.Name" aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.CreateDate)</span>
+            <input type="text" class="form-control" placeholder="@Model.CreateDate" aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.CreateBy)</span>
+            <input type="text" class="form-control" placeholder="@Model.CreateBy" aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">@Html.DisplayNameFor(model => model.Status)</span>
+            <input type="text" class="form-control" placeholder="@if(Model.Status == true){
+            <text>Show</text>
+}else{
+            <text>Hide</text>
+}" aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+    </div>
+</div>
+<div>
+    @* @Html.ActionLink("Edit", "Edit", new {id = Model.Id}, new {@class="btn btn-primary"})
+    <a href="/Category/Edit/@Model.Id" class="btn btn-primary">Sửa</a> *@
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Sửa</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
