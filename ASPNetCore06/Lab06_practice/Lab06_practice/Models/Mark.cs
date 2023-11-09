@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Lab06_practice.Models
 {
     [Table("Marks")]
-    [Keyless]
+    [PrimaryKey(nameof(SubjectId), nameof(StudentId))]
     public class Mark
     {
         public int SubjectId { get; set; }

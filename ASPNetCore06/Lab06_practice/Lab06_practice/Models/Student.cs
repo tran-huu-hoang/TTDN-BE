@@ -31,7 +31,7 @@ namespace Lab06_practice.Models
 
         public DateTime StudentBirthday { get; set; }
 
-        public int ClassId { get; set; }
+        public int StdClassId { get; set; }
 
         //khóa ngoại
         public virtual StdClass? StdClass { get; set; }

@@ -24,12 +24,92 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Marks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Marks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Marks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Marks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Marks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/StdClasses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQ2xhc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/StdClasses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQ2xhc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/StdClasses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQ2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/StdClasses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/StdClasses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Subjects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Subjects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Subjects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Subjects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/Subjects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/WorkSpace/TTDN-BE/ASPNetCore06/Lab06_practice/Lab06_practice/Views/_ViewImports.cshtml]
