@@ -293,8 +293,52 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin1.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin1.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin2.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin2.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin3.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin3.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin4.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin4.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin5.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin5.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\account\\admin6.jfif",
+      "PackagePath": "staticwebassets\\images\\account\\admin6.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\anh2.png",
+      "PackagePath": "staticwebassets\\images\\banner\\anh2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\anh3.png",
+      "PackagePath": "staticwebassets\\images\\banner\\anh3.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\anh5.png",
+      "PackagePath": "staticwebassets\\images\\banner\\anh5.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\blog2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\blog2.jpg"
+    },
+    {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\blog3.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\banner\\kiemdon.png",
+      "PackagePath": "staticwebassets\\images\\banner\\kiemdon.png"
     },
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\blog\\anh2.png",
@@ -317,6 +361,18 @@
       "PackagePath": "staticwebassets\\images\\blog\\blog3.jpg"
     },
     {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog6.jpg"
+    },
+    {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\category\\cung.png",
       "PackagePath": "staticwebassets\\images\\category\\cung.png"
     },
@@ -331,6 +387,34 @@
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\category\\vukhicandai.jfif",
       "PackagePath": "staticwebassets\\images\\category\\vukhicandai.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh1.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh2.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh3.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh3.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh4.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh4.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh5.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh5.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh6.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh6.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\customer\\anh7.png",
+      "PackagePath": "staticwebassets\\images\\customer\\anh7.png"
     },
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab08\\Lab08\\wwwroot\\images\\demo\\249x100.png",

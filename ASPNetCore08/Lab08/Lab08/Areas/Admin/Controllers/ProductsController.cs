@@ -26,14 +26,14 @@ namespace Lab08.Areas.Admin.Controllers
             //số bản ghi trên 1 trang
             int limit = 5;
 
-            var appDbContext = _context.Products.Include(p => p.Category).OrderBy(c => c.Id).ToPagedListAsync(page, limit); ;
+            var appDbContext = await _context.Products.Include(p => p.Category).OrderBy(c => c.Id).ToPagedListAsync(page, limit);
 
             if (!String.IsNullOrEmpty(name))
             {
-                appDbContext = _context.Products.Where(c => c.Name.Contains(name)).OrderBy(c => c.Id).ToPagedListAsync(page, limit);
+                appDbContext = await _context.Products.Where(c => c.Name.Contains(name)).OrderBy(c => c.Id).ToPagedListAsync(page, limit);
             }
 
-            return View(await appDbContext);
+            return View(appDbContext);
         }
 
         // GET: Admin/Products/Details/5
