@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Lab09.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row bg-white">
+    @foreach(var item in Model)
+    {
+        <div class="col-md-3 col-sm-6 mt-4">
+            <div class="card product-card">
+                <div class="product-cart-box-img"><img src="@item.Image" class="card-img-top product-card-img" alt="@item.Title"></div>
+                <div class="card-body text-center product-card-content">
+                    <h5><a href="/product/@item.Id">@item.Title</a></h5>
+
+                    <p class="old-price">
+                        @string.Format("{0:#,##0}", item.PriceOld) VND
+                    </p>
+                    <p class="new-price">
+                        @string.Format("{0:#,##0}", item.PriceOld) VND
+                    </p>
+
+                    <a asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id" class="text-gold">
+                        <i class="fa-solid fa-bag-shopping"></i>&nbsp;Mua hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

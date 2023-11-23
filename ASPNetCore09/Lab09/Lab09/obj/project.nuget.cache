@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0vK63p9FSqzpcHROhZPQT8SU/r9MyBVYh5pQDk9hMjXK980mcrIoqjanXg6hTImM4jmsfTZx7lvawAnGuNKIw==",
+  "dgSpecHash": "hFmZMC5rW+M3u4ypeDRx2CPEq0nI7LvvPjbZpewomL0iCqT9qNlgFArXyv//GLEB/9kB5MU06FqTlNStYosxvA==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\Lab09.csproj",
+  "projectFilePath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\Lab09.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

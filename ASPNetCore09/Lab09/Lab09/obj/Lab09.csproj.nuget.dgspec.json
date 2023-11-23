@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\Lab09.csproj": {}
+    "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\Lab09.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\Lab09.csproj": {
+    "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\Lab09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\Lab09.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\Lab09.csproj",
         "projectName": "Lab09",
-        "projectPath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\Lab09.csproj",
+        "projectPath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\Lab09.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore08\\Lab09\\Lab09\\obj\\",
+        "outputPath": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
