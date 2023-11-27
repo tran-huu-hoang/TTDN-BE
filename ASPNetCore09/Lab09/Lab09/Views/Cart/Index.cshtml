@@ -96,9 +96,9 @@
             let href = "/cart/Update/?id=" + id + "&quantity=" + qty;
             $(this).parent().parent().parent().parent().siblings('.btn-action').children('.update').attr("href", href);
             $(this).parent().parent().siblings('p').attr("data-money", money);
-            let total_money = formatMoney(money, 0, ",", "");
+            let total_money = formatMoney(money, 0, ",", ".");
             $(this).parent().parent().siblings('p').children("span#money").text(total_money);
-            let totalMoney = formatMoney(total(), 0, "", "");
+            let totalMoney = formatMoney(total(), 0, ",", ".");
             $("#totalMoney").text(totalMoney);
             $("#totalMoneyPay").text(totalMoney);
         })
@@ -131,7 +131,7 @@
         total();
     })
 
-    function format Money(amount, decimalCount = 2, decimal = ".", thousands = ",") {
+    function formatMoney(amount, decimalCount = 2, decimal = ".", thousands = ",") {
         try {
             decimalCount = Math.abs(decimalCount);
             decimalCount = isNaN(decimalCount) ? 2 : decimalCount;

@@ -1,11 +1,13 @@
 ﻿using Lab09.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using System.Text;
 
 namespace Lab09.Controllers
 {
-    public class CartController : Controller
+    public class CartController : BaseCustomerController
     {
         private readonly DevXuongMocContext _context;
         private List<Cart> carts = new List<Cart>();
