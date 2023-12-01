@@ -7,7 +7,7 @@ namespace Lab09.Controllers
     {
         public override void OnActionExecuted(ActionExecutedContext context)
         {
-            if (context.HttpContext.Session.GetString("AdminLogin") == null)
+            if (context.HttpContext.Session.GetString("Member") == null)
             {
                 context.Result = new RedirectToRouteResult(new RouteValueDictionary(new { Controller = "LoginCustomer", Action = "Index" }));
             }

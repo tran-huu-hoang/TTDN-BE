@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Lab09.Controllers
 {
-    public class ProductController : BaseCustomerController
+    public class ProductController : Controller
     {
         private readonly DevXuongMocContext _context;
 

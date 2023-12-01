@@ -32,7 +32,7 @@ namespace Lab09.Controllers
             {
                 _context.Add(customer);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Index", "LoginCustomer");
+                return View("RegisterSuccess");
             }
             catch
             {

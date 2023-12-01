@@ -37,7 +37,13 @@ public partial class DevXuongMocContext : DbContext
 
     public virtual DbSet<News> News { get; set; }
 
+    public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<Orderdetail> Orderdetails { get; set; }
+
     public virtual DbSet<Partner> Partners { get; set; }
+
+    public virtual DbSet<PaymentMethod> PaymentMethods { get; set; }
 
     public virtual DbSet<Product> Products { get; set; }
 
@@ -596,6 +602,60 @@ public partial class DevXuongMocContext : DbContext
             entity.Property(e => e.Views).HasColumnName("VIEWS");
         });
 
+        modelBuilder.Entity<Order>(entity =>
+        {
+            entity.ToTable("ORDERS");
+
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Address)
+                .HasMaxLength(500)
+                .HasColumnName("ADDRESS");
+            entity.Property(e => e.Email)
+                .HasMaxLength(150)
+                .HasColumnName("EMAIL");
+            entity.Property(e => e.Idcustomer).HasColumnName("IDCUSTOMER");
+            entity.Property(e => e.Idorders)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .IsFixedLength()
+                .HasColumnName("IDORDERS");
+            entity.Property(e => e.Idpayment).HasColumnName("IDPAYMENT");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.NameReciver)
+                .HasMaxLength(250)
+                .HasColumnName("NAME_RECIVER");
+            entity.Property(e => e.Notes)
+                .HasColumnType("ntext")
+                .HasColumnName("NOTES");
+            entity.Property(e => e.OrdersDate)
+                .HasColumnType("datetime")
+                .HasColumnName("ORDERS_DATE");
+            entity.Property(e => e.Phone)
+                .HasMaxLength(50)
+                .HasColumnName("PHONE");
+            entity.Property(e => e.TotalMoney)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("TOTAL_MONEY");
+        });
+
+        modelBuilder.Entity<Orderdetail>(entity =>
+        {
+            entity.ToTable("ORDERDETAILS");
+
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Idord).HasColumnName("IDORD");
+            entity.Property(e => e.Idproduct).HasColumnName("IDPRODUCT");
+            entity.Property(e => e.Price)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("PRICE");
+            entity.Property(e => e.Qty).HasColumnName("QTY");
+            entity.Property(e => e.ReturnQty).HasColumnName("RETURN_QTY");
+            entity.Property(e => e.Total)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("TOTAL");
+        });
+
         modelBuilder.Entity<Partner>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC27CD75DF32");
@@ -639,6 +699,29 @@ public partial class DevXuongMocContext : DbContext
                 .HasColumnName("URL");
         });
 
+        modelBuilder.Entity<PaymentMethod>(entity =>
+        {
+            entity.ToTable("PAYMENT_METHOD");
+
+            entity.Property(e => e.Id)
+                .ValueGeneratedNever()
+                .HasColumnName("ID");
+            entity.Property(e => e.CreatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("CREATED_DATE");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.Name)
+                .HasMaxLength(250)
+                .HasColumnName("NAME");
+            entity.Property(e => e.Notes)
+                .HasColumnType("ntext")
+                .HasColumnName("NOTES");
+            entity.Property(e => e.UpdatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("UPDATED_DATE");
+        });
+
         modelBuilder.Entity<Product>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__PRODUCT__3214EC27E639B94D");
@@ -658,21 +741,15 @@ public partial class DevXuongMocContext : DbContext
                 .HasColumnName("CODE");
             entity.Property(e => e.Content).HasColumnName("CONTENT");
             entity.Property(e => e.CreatedDate)
-                .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("CREATED_DATE");
             entity.Property(e => e.Description).HasColumnName("DESCRIPTION");
-            entity.Property(e => e.Home)
-                .HasDefaultValueSql("((0))")
-                .HasColumnName("HOME");
+            entity.Property(e => e.Home).HasColumnName("HOME");
             entity.Property(e => e.Hot).HasColumnName("HOT");
             entity.Property(e => e.Image)
                 .HasMaxLength(255)
-                .HasDefaultValueSql("('NO_IMAGE_AVAILABLE.jpg')")
                 .HasColumnName("IMAGE");
-            entity.Property(e => e.Isdelete)
-                .HasDefaultValueSql("((0))")
-                .HasColumnName("ISDELETE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
             entity.Property(e => e.Likes).HasColumnName("LIKES");
             entity.Property(e => e.MetaDescription)
                 .HasMaxLength(500)
@@ -696,14 +773,11 @@ public partial class DevXuongMocContext : DbContext
                 .HasMaxLength(500)
                 .HasColumnName("SLUG");
             entity.Property(e => e.Star).HasColumnName("STAR");
-            entity.Property(e => e.Status)
-                .HasDefaultValueSql("((1))")
-                .HasColumnName("STATUS");
+            entity.Property(e => e.Status).HasColumnName("STATUS");
             entity.Property(e => e.Title)
                 .HasMaxLength(255)
                 .HasColumnName("TITLE");
             entity.Property(e => e.UpdatedDate)
-                .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("UPDATED_DATE");
             entity.Property(e => e.Views).HasColumnName("VIEWS");

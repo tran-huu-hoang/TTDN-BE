@@ -57,8 +57,8 @@
                             @string.Format("{0:#,##0}", ViewBag.total) </span> VND
                     </div>
                     <div class="group-btn">
-                        <a href="/cart/orders" class="btn">Đặt hàng ngay</a>
-                        <a href="/product" class="btn">Tiếp tục mua hàng</a>
+                        <a asp-action="Orders" asp-controller="Cart" class="btn">Đặt hàng ngay</a>
+                        <a asp-action="Index" asp-controller="Product" class="btn">Tiếp tục mua hàng</a>
                     </div>
                 </div>
             </div>

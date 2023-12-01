@@ -5,7 +5,7 @@ namespace Lab09.Models;
 
 public partial class Product
 {
-    public int Id { get; set; }
+    public long Id { get; set; }
 
     public int? Cid { get; set; }
 
