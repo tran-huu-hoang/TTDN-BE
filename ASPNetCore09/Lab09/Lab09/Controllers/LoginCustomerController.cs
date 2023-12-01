@@ -37,7 +37,7 @@ namespace Lab09.Controllers
                 {
                     return Redirect(urlAction);
                 }
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", "Product");
             }
             return View(model);
         }
