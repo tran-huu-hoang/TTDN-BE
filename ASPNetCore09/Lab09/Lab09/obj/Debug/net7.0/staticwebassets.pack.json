@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
     },

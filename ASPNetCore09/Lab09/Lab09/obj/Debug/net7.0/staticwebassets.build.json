@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SpDXhRhmc2Jo1YceY92uOHsDdg/PerY8W0vwMY493vU=",
+  "Hash": "nT7QDFJoVWqxBL3kgSTKcWZ8XuJQnjLwLvFoC6o6ic4=",
   "Source": "Lab09",
   "BasePath": "_content/Lab09",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\css\\style.css",
+      "SourceId": "Lab09",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\",
+      "BasePath": "_content/Lab09",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\dist\\css\\adminlte.css",

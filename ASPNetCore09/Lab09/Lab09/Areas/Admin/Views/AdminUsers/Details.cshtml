@@ -1,0 +1,70 @@
+﻿@model Lab09.Models.AdminUser
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/Admin.cshtml";
+}
+
+<h1>Thông tin chi tiết</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="control-label">Tài khoản</label>
+            <input asp-for="Account" class="form-control" readonly />
+            <span asp-validation-for="Account" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Mật khẩu</label>
+            <input asp-for="Password" class="form-control" readonly />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Mã nhân sự</label>
+            <input asp-for="MaNhanSu" class="form-control" readonly />
+            <span asp-validation-for="MaNhanSu" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Tên</label>
+            <input asp-for="Name" class="form-control" readonly />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Số điện thoại</label>
+            <input asp-for="Phone" class="form-control" readonly />
+            <span asp-validation-for="Phone" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Email</label>
+            <input asp-for="Email" class="form-control" readonly />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Ngày tạo</label>
+            <input asp-for="NgayTao" class="form-control" readonly />
+            <span asp-validation-for="NgayTao" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Ngày cập nhật</label>
+            <input asp-for="NgayCapNhat" class="form-control" readonly />
+            <span asp-validation-for="NgayCapNhat" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Trạng thái</label>
+            <input class="form-control" readonly @if (Model.TrangThai == 1)
+            {
+                <text>value="Hoạt động"</text>
+            }
+            else
+            {
+                <text>value="Đang khóa"</text>
+            }
+            />
+            <span asp-validation-for="TrangThai" class="text-danger"></span>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
