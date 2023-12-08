@@ -1,0 +1,76 @@
+﻿@model Lab09.Models.Category
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/Admin.cshtml";
+}
+
+<h1>Sửa thông tin danh mục</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label class="control-label">Tiêu đề</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Biểu tượng</label>
+                <input asp-for="Icon" class="form-control" type="hidden" />
+                <input class="form-control" type="file" name="UploadIcon" />
+                <span asp-validation-for="Icon" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Slug</label>
+                <input asp-for="Slug" class="form-control" />
+                <span asp-validation-for="Slug" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Đặt hàng</label>
+                <input asp-for="Orders" class="form-control" />
+                <span asp-validation-for="Orders" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Parent Id</label>
+                <input asp-for="Parentid" class="form-control" />
+                <span asp-validation-for="Parentid" class="text-danger"></span>
+            </div>
+            <div class="form-group d-none">
+                <label asp-for="CreatedDate" class="control-label"></label>
+                <input asp-for="CreatedDate" class="form-control" />
+                <span asp-validation-for="CreatedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Người tạo</label>
+                <input asp-for="AdminCreated" class="form-control" />
+                <span asp-validation-for="AdminCreated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Người cập nhật</label>
+                <input asp-for="AdminUpdated" class="form-control" />
+                <span asp-validation-for="AdminUpdated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Ghi chú</label>
+                <input asp-for="Notes" class="form-control" />
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Trang thái</label>
+                <select asp-for="Status" class="form-select" aria-label="Default select example">
+                    <option value="1">Active</option>
+                    <option value="0">Inactive</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+

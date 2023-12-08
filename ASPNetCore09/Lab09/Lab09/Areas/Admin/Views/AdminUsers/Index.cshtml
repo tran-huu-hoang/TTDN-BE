@@ -52,7 +52,10 @@
                 @Html.DisplayFor(modelItem => item.Account)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.NgayTao)
+                @if(item.NgayTao.HasValue)
+                {
+                    @item.NgayTao.Value.ToShortDateString()
+                }
             </td>
             <td>
                     @if(item.TrangThai == 1)

@@ -5,6 +5,50 @@
       "PackagePath": "staticwebassets\\Lab09.bundle.scp.css"
     },
     {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\admin1.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\admin1.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\admin4.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\admin4.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\admin5.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\admin5.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.png"
+    },
+    {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\products\\cau-thang\\019.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\cau-thang\\019.jpg"
     },
