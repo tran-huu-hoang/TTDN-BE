@@ -7,11 +7,12 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Lab09.Models;
 using X.PagedList;
+using Newtonsoft.Json;
 
 namespace Lab09.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    public class CategoriesController : Controller
+    //[Area("Admin")]
+    public class CategoriesController : BaseController
     {
         private readonly DevXuongMocContext _context;
 
@@ -73,16 +74,19 @@ namespace Lab09.Areas.Admin.Controllers
                 {
                     var file = files[0];
                     var FileName = file.FileName;
-                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Content\\Uploads\\images\\danh-muc", FileName);
+                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Content\\Uploads\\images\\Banner", FileName);
                     using (var stream = new FileStream(path, FileMode.Create))
                     {
                         file.CopyTo(stream);
-                        category.Icon = "/Content/Uploads/images/danh-muc/" + FileName;
+                        category.Icon = "/Content/Uploads/images/Banner/" + FileName;
                     }
                 }
 
                 category.CreatedDate = DateTime.Now;
                 category.UpdatedDate = DateTime.Now;
+                var admin = JsonConvert.DeserializeObject<AdminUser>(HttpContext.Session.GetString("AdminLogin"));
+                category.AdminCreated = admin.Account;
+                category.AdminUpdated = admin.Account;
 
                 _context.Add(category);
                 await _context.SaveChangesAsync();
@@ -137,6 +141,7 @@ namespace Lab09.Areas.Admin.Controllers
                     }
 
                     category.UpdatedDate = DateTime.Now;
+                    category.AdminUpdated = JsonConvert.DeserializeObject<AdminUser>(HttpContext.Session.GetString("AdminLogin")).Account;
 
                     _context.Update(category);
                     await _context.SaveChangesAsync();

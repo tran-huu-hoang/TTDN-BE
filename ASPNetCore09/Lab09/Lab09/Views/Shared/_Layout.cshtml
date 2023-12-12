@@ -1,5 +1,6 @@
-﻿
+﻿@using Microsoft.AspNetCore.Http;
 @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@using Newtonsoft.Json;
 
 <!DOCTYPE html>
 <html lang="en">
@@ -39,8 +40,9 @@
                         @{
                             if(HttpContextAccessor.HttpContext.Session.GetString("Member") != null)
                             {
+                                var user = JsonConvert.DeserializeObject<Customer>(HttpContextAccessor.HttpContext.Session.GetString("Member"));
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Cart" asp-action="Orders">Welcome to</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Cart" asp-action="Orders">Welcome to, @user.Name</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link text-dark" asp-area="" asp-controller="LoginCustomer" asp-action="Logout">Logout</a>

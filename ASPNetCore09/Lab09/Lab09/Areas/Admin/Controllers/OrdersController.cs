@@ -10,7 +10,7 @@ using Lab09.Models;
 namespace Lab09.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class OrdersController : Controller
+    public class OrdersController : BaseController
     {
         private readonly DevXuongMocContext _context;
 

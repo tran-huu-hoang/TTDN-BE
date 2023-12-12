@@ -11,7 +11,7 @@ using X.PagedList;
 namespace Lab09.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class AdminUsersController : Controller
+    public class AdminUsersController : BaseController
     {
         private readonly DevXuongMocContext _context;
 

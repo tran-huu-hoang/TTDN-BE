@@ -508,3 +508,4 @@ C:\WorkSpace\TTDN-BE\ASPNetCore09\Lab09\Lab09\bin\Debug\net7.0\JetBrains.Annotat
 C:\WorkSpace\TTDN-BE\ASPNetCore09\Lab09\Lab09\bin\Debug\net7.0\X.PagedList.dll
 C:\WorkSpace\TTDN-BE\ASPNetCore09\Lab09\Lab09\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
 C:\WorkSpace\TTDN-BE\ASPNetCore09\Lab09\Lab09\obj\Debug\net7.0\Lab09.MvcApplicationPartsAssemblyInfo.cs
+C:\WorkSpace\TTDN-BE\ASPNetCore09\Lab09\Lab09\bin\Debug\net7.0\Lab09.dll.config

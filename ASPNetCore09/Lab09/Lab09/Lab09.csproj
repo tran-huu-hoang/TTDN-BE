@@ -23,6 +23,8 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="wwwroot\Content\Plugin\" />
+    <Folder Include="wwwroot\Content\Uploads\images\Banner\" />
   </ItemGroup>
 
 </Project>
