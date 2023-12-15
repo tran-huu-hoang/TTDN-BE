@@ -23,8 +23,21 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="wwwroot\Content\Plugin\" />
+    <Folder Include="wwwroot\Content\Plugin\ckfinder\App_Data\" />
+    <Folder Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.WebApp\userfiles\" />
+    <Folder Include="wwwroot\Content\Plugin\ckfinder\userfiles\" />
     <Folder Include="wwwroot\Content\Uploads\images\Banner\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.Plugin.DiskQuota\CKFinder.Connector.Plugin.DiskQuota.csproj" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.Plugin.GetFileInfo\CKFinder.Connector.Plugin.GetFileInfo.csproj" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.Plugin.UserActionsLogger\CKFinder.Connector.Plugin.UserActionsLogger.csproj" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.Plugin.Watermark\CKFinder.Connector.Plugin.Watermark.csproj" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.Samples.sln" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.WebApp\CKFinder.Connector.WebApp.csproj" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.WebApp\CKFinder.Connector.WebApp.csproj.user" />
+    <None Include="wwwroot\Content\Plugin\ckfinder\src\CKFinder.Connector.WebApp\Properties\PublishProfiles\FolderProfile.pubxml.user" />
   </ItemGroup>
 
 </Project>

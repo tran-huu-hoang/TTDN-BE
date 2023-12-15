@@ -50,7 +50,7 @@
             </div>
             <div class="form-group">
                 <label class="control-label">Ghi chú</label>
-                <input asp-for="Notes" class="form-control" />
+                <textarea asp-for="Notes" class="form-control ckeditor" id="inputCK"></textarea>
                 <span asp-validation-for="Notes" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -69,3 +69,12 @@
     </div>
 </div>
 
+@section Scripts{
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#inputCK'))
+            .catch(error => {
+                console.log(error);
+            });
+    </script>
+}

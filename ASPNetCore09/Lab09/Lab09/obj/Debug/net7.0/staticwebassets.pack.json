@@ -5,1308 +5,320 @@
       "PackagePath": "staticwebassets\\Lab09.bundle.scp.css"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\CHANGES.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\CHANGES.md"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\LICENSE.md"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\LICENSE.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\LICENSE.md"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\README.md",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\README.md"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\README.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\README.md"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\ckeditor.d.ts"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\SECURITY.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\SECURITY.md"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\ckeditor.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\adapters\\jquery.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\adapters\\jquery.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\index.html",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\index.html"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\build-config.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\build-config.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\sample\\css\\sample.css",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\sample\\css\\sample.css"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\ckeditor.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\ckeditor.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\bg.png",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\bg.png"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\config.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\config.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\github.svg",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\github.svg"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\contents.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\contents.css"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\logo.svg"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\af.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\af.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ar.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ar.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\af.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\af.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\az.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\az.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ar.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\bg.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\bg.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ast.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\bn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\bn.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\az.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\az.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\bs.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\bs.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bg.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ca.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bn.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\cs.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\cs.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\bs.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\cy.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\cy.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ca.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\da.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\da.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\cs.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\de-ch.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\de-ch.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\da.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\da.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\de.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\de.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\de-ch.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\el.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\el.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\de.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\de.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\en-au.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\en-au.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\el.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\el.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\en-ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\en-ca.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\en-au.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\en-gb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\en-gb.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\en-gb.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\en.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\en.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\eo.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\eo.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\eo.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\es-co.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\es-mx.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\es-mx.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\es.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\es.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\es.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\es.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\et.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\et.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\et.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\et.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\eu.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\eu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\eu.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fa.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\fa.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\fa.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fi.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\fi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\fi.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\fr.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\fo.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\fo.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\gl.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\fr-ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\fr-ca.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\gu.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\fr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\fr.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\he.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\he.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\gl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\gl.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hi.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\gu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\gu.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hr.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\he.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\he.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hu.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\hi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\hi.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\hy.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\hr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\hr.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\id.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\id.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\hu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\hu.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\it.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\it.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\id.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\id.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ja.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\is.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\is.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\jv.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\it.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\it.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\km.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\km.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ja.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ja.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\kn.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ka.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ka.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ko.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\km.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\km.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ku.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ko.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ko.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\lt.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ku.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ku.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\lv.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\lt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\lt.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ms.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\lv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\lv.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\nb.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\mk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\mk.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ne.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\mn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\mn.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\nl.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ms.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ms.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\no.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\no.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\nb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\nb.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\oc.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\nl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\nl.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pl.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\no.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\no.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pt-br.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\oc.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\oc.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\pt.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\pl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\pl.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ro.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\pt-br.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\pt-br.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ru.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\pt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\pt.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\si.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\si.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ro.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ro.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sk.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ru.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ru.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sl.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\si.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\si.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sq.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sk.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sr-latn.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sl.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sr.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sq.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sq.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\sv.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sr-latn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sr-latn.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\th.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\th.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sr.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tk.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\sv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\sv.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tr.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\th.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\th.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\tt.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\tr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\tr.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ug.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\tt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\tt.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\uk.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\ug.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\ug.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\ur.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\uk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\uk.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\uz.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\vi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\vi.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\vi.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\zh-cn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\zh-cn.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\zh-cn.js"
     },
     {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\lang\\zh.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\lang\\zh.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\about.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\about.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\icons.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\icons.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\icons_hidpi.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\icons_hidpi.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\image\\dialogs\\image.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\image\\dialogs\\image.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\image\\images\\noimage.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\image\\images\\noimage.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\link\\dialogs\\link.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\link\\dialogs\\link.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\link\\images\\anchor.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\link\\images\\anchor.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\icon.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\magicline\\images\\icon.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\pastetools\\filter\\common.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\pastetools\\filter\\common.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\pastetools\\filter\\image.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\pastetools\\filter\\image.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\LICENSE.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\README.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\README.md"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\table\\dialogs\\table.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\table\\dialogs\\table.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\plugins\\widget\\images\\handle.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\plugins\\widget\\images\\handle.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\css\\samples.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\css\\samples.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\github-top.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\github-top.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\header-bg.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\header-bg.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\header-separator.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\header-separator.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\logo.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\logo.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\logo.svg",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\logo.svg"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\img\\navigation-tip.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\img\\navigation-tip.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\index.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\index.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\js\\sample.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\js\\sample.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\js\\sf.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\js\\sf.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\ajax.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\ajax.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\api.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\api.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\appendto.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\appendto.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\posteddata.php",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\posteddata.php"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\sample.jpg",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\sample.jpg"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\datafiltering.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\datafiltering.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\dialog\\dialog.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\dialog\\dialog.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\divreplace.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\divreplace.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\index.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\index.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\inlineall.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\inlineall.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\inlinebycode.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\inlinebycode.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\inlinetextarea.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\inlinetextarea.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\jquery.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\jquery.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\magicline\\magicline.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\magicline\\magicline.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\readonly.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\readonly.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\replacebyclass.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\replacebyclass.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\replacebycode.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\replacebycode.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\sample.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\sample.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\sample.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\sample.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\sample_posteddata.php",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\sample_posteddata.php"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\tabindex.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\tabindex.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\uicolor.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\uicolor.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\uilanguages.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\uilanguages.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\old\\xhtmlstyle.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\old\\xhtmlstyle.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\index.html",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\index.html"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\icons.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\icons.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\close.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\close.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\readme.md",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\skins\\moono-lisa\\readme.md"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\styles.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\styles.js"
-    },
-    {
-      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor\\vendor\\promise.js",
-      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor\\vendor\\promise.js"
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckeditor5-build-classic\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\Content\\Plugin\\ckeditor5-build-classic\\translations\\zh.js"
     },
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Plugin\\ckfinder\\App_Code\\ConnectorConfig.cs",
@@ -10641,6 +9653,10 @@
       "PackagePath": "staticwebassets\\Content\\Uploads\\images\\Banner\\admin3.jfif"
     },
     {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\Banner\\admin4.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\Banner\\admin4.jfif"
+    },
+    {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\Banner\\admin5.jfif",
       "PackagePath": "staticwebassets\\Content\\Uploads\\images\\Banner\\admin5.jfif"
     },
@@ -10699,6 +9715,70 @@
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.png",
       "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\admin2.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\admin2.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\admin3.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\admin3.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\admin4.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\admin4.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\admin5.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\admin5.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\admin6.jfif",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\admin6.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\baiviet.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\baiviet.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-2.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-3.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin1.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin1.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin2.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin2.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin3.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin3.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin4.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin4.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin5.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin5.jfif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\admin6.jfif",
+      "PackagePath": "staticwebassets\\Images\\admin6.jfif"
     },
     {
       "Id": "C:\\WorkSpace\\TTDN-BE\\ASPNetCore09\\Lab09\\Lab09\\wwwroot\\Images\\products\\cau-thang\\019.jpg",
