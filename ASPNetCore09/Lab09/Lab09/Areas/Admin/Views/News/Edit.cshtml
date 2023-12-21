@@ -109,16 +109,14 @@
 
 @section Scripts{
     <script>
-        ClassicEditor
-            .create(document.querySelector('#inputCK'))
-            .catch(error => {
-                console.log(error);
-            });
+        CKEDITOR.replace('inputCK', {
+            customConfig: '/content/plugin/ckeditor/config.js',
+            extraAllowedContent: 'span',
+        });
 
-        ClassicEditor
-            .create(document.querySelector('#inputCK2'))
-            .catch(error => {
-                console.log(error);
-            });
+        CKEDITOR.replace('inputCK2', {
+            customConfig: '/content/plugin/ckeditor/config.js',
+            extraAllowedContent: 'span',
+        });
     </script>
 }

@@ -60,10 +60,11 @@
 
 @section Scripts{
     <script>
-        ClassicEditor
-            .create(document.querySelector('#inputCK'))
-            .catch(error => {
-                console.log(error);
+        $(.ckeditor).each(function () {
+            CKEDITOR.replace('this.id', {
+                customConfig: '/content/plugin/ckeditor/config.js',
+                extraAllowedContent: 'span',
             });
+        })
     </script>
 }
