@@ -26,6 +26,7 @@
     <Folder Include="wwwroot\Content\Plugin\ckfinder\userfiles\" />
     <Folder Include="wwwroot\Content\Uploads\images\Banner\" />
     <Folder Include="wwwroot\Content\Uploads\images\extension\" />
+    <Folder Include="wwwroot\Content\Uploads\images\material\" />
     <Folder Include="wwwroot\NewFolder\" />
   </ItemGroup>
 
