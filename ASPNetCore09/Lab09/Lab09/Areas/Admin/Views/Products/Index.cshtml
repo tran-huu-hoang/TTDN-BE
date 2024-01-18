@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Lab09.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Admin.cshtml";
+}
+
+<h1 class="py-3">Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+            <th>
+                Tiêu đề
+            </th>
+            <th>
+                Hình ảnh
+            </th>
+            <th>
+                Giá cũ
+            </th>
+            <th>
+                Giá mới
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Views)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Likes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Star)
+            </th>
+            <th>
+                Ngày tạo
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th>
+                Tác vụ
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src="@item.Image" alt="@item.Title" width="60" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceOld)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceNew)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Views)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Likes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Star)
+            </td>
+            <td>
+                @if(item.CreatedDate.HasValue){
+                    @item.CreatedDate.Value.ToShortDateString()
+                }
+            </td>
+            <td>
+                    @if (item.Status == 1)
+                    {
+                        <span class="text-success">Active</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Inactive</span>
+                    }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-event"><i class="fa-regular fa-pen-to-square"></i></a>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success btn-event"><i class="fa-solid fa-circle-info"></i></a>
+                <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Bạn có chắc muốn xóa mục này không?');" class="btn btn-danger btn-event"><i class="fa-solid fa-trash-can"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
